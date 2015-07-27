@@ -1,0 +1,18 @@
+.wpcf7 input::-webkit-input-placeholder,
+.wpcf7 textarea::-webkit-input-placeholder{
+	color:#5b564d;
+}
+.wpcf7 input:-ms-input-placeholder,
+.wpcf7 textarea:-ms-input-placeholder{
+	color:#5b564d;
+}
+.wpcf7 input:-moz-placeholder,
+.wpcf7 textarea:-moz-placeholder{
+	color:#5b564d;
+	opacity:1;
+}
+.wpcf7 input::-moz-placeholder,
+.wpcf7 textarea::-moz-placeholder{
+	color:#5b564d;
+	opacity:1;
+}
