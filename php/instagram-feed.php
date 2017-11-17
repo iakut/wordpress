@@ -1,5 +1,5 @@
 <?php
-	$url = 'https://api.instagram.com/v1/users/4240109869/media/recent/?access_token=4240109869.1677ed0.3643c230de264648a8cc35991b08bbe7&count=5';
+	$url = 'https://api.instagram.com/v1/users/xxxxxxxxxx/media/recent/?access_token=xxxxxxxxxx.1677ed0.3643c230de264648a8cc35991b08bbe7&count=5';
 	$content = file_get_contents($url);
 	$json = json_decode($content, true);
 ?>
